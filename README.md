@@ -16,3 +16,5 @@ During our study, we collected and filtered 1000 COVID-related tweets from Canad
 
 - **Final_report.pdf:** This document presents the comprehensive report for the project.
 
+## Statement of Contribution:
+This project was conducted as a collaborative effort within a group of three members, with all team members contributing equally at every stage of the project.
